@@ -8,6 +8,26 @@
   </p>
 </p>
 
+## Contenido
+
+- [Introducción](#introducción)
+- [Código Fuente](#código-fuente)
+- [Planificación](#planificación)
+- [Autores](#autores)
+- [Copyright](#copyright)
+
+
+## Introducción
+
+- Nombre del proyecto
+- Objetivo.
+- Plataforma ,Género, Clasificación, Personajes, Escenario.
+- Historia
+- Personajes
+- Reglas de Juego.
+- Pantallas de Juego
+- Plan de creación de VideoJuego.
+
 ## Código Fuente
 
 * Lección 3
@@ -20,4 +40,13 @@
   * > Laboratorio
   * > Desafío
   * > Prueba
+
+## Planificación
+
+
+## Autores
+Muñiz Amaro Isaac Gamaliel
+
+## Copyright
+Derechos Reservados 2022
 
