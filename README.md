@@ -33,7 +33,7 @@
 * Lección 3
   * > [Tutorial_Unit3](https://github.com/UnityIsaacGamaliel/Unidad-2/blob/main/Leccion3/Leccion3.unitypackage)
   * > [Laboratorio](https://github.com/UnityIsaacGamaliel/Unidad-2/blob/main/Leccion3/Laboratorio3.unitypackage)
-  * > [Desafío](https://github.com/UnityIsaacGamaliel/Unidad-2/blob/main/Leccion3/Desafio%203.unitypackage)
+  * > [Desafío](https://github.com/UnityIsaacGamaliel/Unidad-2/blob/main/Leccion3/Desafio3.unitypackage)
   * > [Video_Desafio](https://github.com/UnityIsaacGamaliel/Unidad-2/blob/main/Leccion3/Challenge3.mp4)
   * > [Prueba](https://github.com/UnityIsaacGamaliel/Unidad-2/blob/main/Leccion3/Quiz%203.png)
 * Lección 5
