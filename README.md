@@ -19,15 +19,15 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
+- Nombre del proyecto (Destroy the Boss)
+- Objetivo. (Derrotar a todos los enemigos de manera inteligente, y acumular el maximo de puntos en el juego)
+- Plataforma:Unity ,Género: Arcade, Clasificación: TODOS +10, Escenario: Camino con montañas rocosas.
+- Historia: Squanchy es un extraterrestre que busca venganza, después de que su planeta natal haya sido destruido con su familia en el, por un horrible villando. Desde entonces ha ido a distintos planetas buscando al destructor para asesinarlo.
+- Personajes:Squanchy(Personaje principal), Walker(Enemigo 1),Shooter(Enemigo 2), Spawner(Enemigo 3), Big Boss(Enemigo final)
+- Reglas de Juego: El jugador contara con un porcentaje de vida, la cual disminuirá cuando reciba algun ataque. El jugador contará con 3 vidas, en caso de que muera     Podrá ir acumulando puntos en el transcruso del juego. Deberá que matar a cada de uno de los enemigos para llegar al jefe final. Para poder avanzar de nivel  el jugador tendrá que derrotar al jefe de ese nivel. 
+
 - Pantallas de Juego
 - Plan de creación de VideoJuego.
-
 ## Código Fuente
 
 * Lección 3
