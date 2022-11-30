@@ -61,6 +61,7 @@
   * > [Prueba](https://github.com/UnityIsaacGamaliel/Unidad-2/blob/main/Leccion5/Quiz%205.png)
 * Destroy th Boss
   * > [Versiones del juego](https://drive.google.com/drive/folders/1TI5p0G7jKKCJ2o_Vge-6E9L3GhEsimCY?usp=share_link)
+  * > [Presentacion del juego](https://github.com/UnityIsaacGamaliel/Unidad-2/blob/main/Destroy%20the%20Boss_Unidad%202.pptx)
 
 ## Planificación
 
